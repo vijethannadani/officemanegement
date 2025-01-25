@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class OptionModel  implements Serializable{
 
-	
+	// add var
 
 	/**
 	 * 
